@@ -3,4 +3,4 @@ print("num is : ", num)
 square = num*num
 cube = num*num*num
 print("square is : ",square)
-print("cube is: ",cube)
+print("cube is : ",cube)
